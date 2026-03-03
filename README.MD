@@ -118,7 +118,7 @@ Used to forecast Safaricom stock prices, showing good ability to follow actual t
 
 ## Model Deployment
 
-The trained recommendation model is deployed as an interactive web application using [Streamlit](https://streamlit.io/). Users can input their preferences and receive personalized movie recommendations in real time.
+The trained recommendation model is deployed as an interactive web application using [Streamlit](https://nairobi-stock-exchange-time-series-analysis-zjhpnmvva2avssqvga.streamlit.app/). Users can input their preferences and receive personalized movie recommendations in real time.
 
 
 - **Access:** Run the Streamlit app locally with:
